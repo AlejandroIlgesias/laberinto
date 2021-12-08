@@ -1,4 +1,4 @@
-Mi dirección de GitHub pa este reositorio es la siguiente: 
+Mi dirección de GitHub pa este reositorio es la siguiente: [Github]https://github.com/AlejandroIlgesias/laberinto.git
 
 He programado un laberinto utilizando instrucciones iterativas y funciones
 
